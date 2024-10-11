@@ -7,7 +7,7 @@
 
 
 
-
+<h2>About Me  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
 <pre>
     - 🔭 I’m currently working on Computer Vision
     - 🌱 I’m currently learning Visual Computation • DIP • Rust 
@@ -16,7 +16,7 @@
 </pre>
 
 
-<h3>Things I Code With <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
+<h3>Things I Code With</h3> 
 
 
  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
