@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<p style="font-size: 200px;">About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></p>
+<h2>About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
 <pre>
     - 🔭 I’m currently working on Computer Vision
     - 🌱 I’m currently learning Visual Computation • DIP • Rust 
