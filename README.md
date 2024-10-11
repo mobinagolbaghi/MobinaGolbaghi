@@ -52,7 +52,8 @@
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-
+![html5](https://img.shields.io/badge/HTML5-e32d46?logo=HTML5&logoColor=white&style=for-the-badge)
+![css](https://img.shields.io/badge/CSS3-1e5ce3?logo=HTML5&logoColor=white&style=for-the-badge)
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
