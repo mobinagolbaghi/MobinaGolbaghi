@@ -16,8 +16,8 @@
 </pre>
 
 
-<h3>Things I Code With</h3> 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<h3>Things I Code With <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
+
 
  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -30,7 +30,7 @@
  
 
 
-    
+<!--    
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
