@@ -7,7 +7,7 @@
 
 
 
-<h2>About Me  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
+<b>About Me  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></b>
 <pre>
     - 🔭 I’m currently working on Computer Vision
     - 🌱 I’m currently learning Visual Computation • DIP • Rust 
