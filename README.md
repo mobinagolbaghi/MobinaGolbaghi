@@ -16,19 +16,18 @@
 </pre>
 
 
-<h3>Things I Code With</h3>
-
-  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-  ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-  ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-  ![html5](https://img.shields.io/badge/HTML5-e32d46?logo=HTML5&logoColor=white&style=for-the-badge)
-  ![css](https://img.shields.io/badge/CSS3-1e5ce3?logo=HTML5&logoColor=white&style=for-the-badge)
-  ![Nodejs](https://img.shields.io/badge/Nodejs-43853d?logo=HTML5&logoColor=white&style=for-the-badge)
-
-
+<h3>Things I Code With</h3> 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+ ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+ ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+ ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+ ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+ ![html5](https://img.shields.io/badge/HTML5-e32d46?logo=HTML5&logoColor=white&style=for-the-badge)
+ ![css](https://img.shields.io/badge/CSS3-1e5ce3?logo=HTML5&logoColor=white&style=for-the-badge)
+ ![Nodejs](https://img.shields.io/badge/Nodejs-43853d?logo=HTML5&logoColor=white&style=for-the-badge)
+ 
 
 
     
@@ -38,17 +37,3 @@
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
 
-<!--
-**mobinagolbaghi/MobinaGolbaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
