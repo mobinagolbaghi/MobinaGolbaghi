@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Mobina Golbaghi! 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There,+I'm+Mobina+Golbaghi!👋&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Hi there. I'm Mobina Golbaghi!" /></a>
+</p>
 
 
 <div align="center">
