@@ -2,10 +2,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;This+is+Mobina+Golbaghi!&center=true&size=30">
-  </a>
-  <br><br>
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br><br>
+  </a>
 </h1>
 
 <br><br>
